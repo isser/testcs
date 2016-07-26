@@ -7,7 +7,9 @@ echo "---------------kbs----------------"
 echo "----------------memcached---------"
 /home/aikbs/bin/csMCCTRL.sh
 echo "--------------------------------------------------------------------------------------------------"
-echo "----------------staircs----------------"
+
+
+
 /home/aikbs/bin/stairCSCTRL.sh
 echo "---------------stairkbs----------------"
 /home/aikbs/bin/stairKBSCTRL.sh
