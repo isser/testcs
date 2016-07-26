@@ -14,7 +14,11 @@ echo "--------------------------------------------------------------------------
 echo "---------------stairkbs----------------"
 /home/aikbs/bin/stairKBSCTRL.sh
 echo "----------------stairmemcached---------"
-/home/aikbs/bin/stairCSmcCTRL.sh
+
+ssca
+按时人
+3如
+/ho让人me/aikbs/bin/stairCSmcCTRL.sh
 echo "--------------------------------------------------------------------------------------------------"
 
 
